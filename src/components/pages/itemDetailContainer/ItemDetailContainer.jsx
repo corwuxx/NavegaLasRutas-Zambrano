@@ -11,7 +11,7 @@ export const ItemDetailContainer = () => {
     setProduct(foundProduct);
   }, [id]);
 
- if (!product) return <div className="loading">Cargando...</div>;
+ if (!product) return <div className="loading">No hay productos para mostrar</div>; //Si no hay productos dirá "No hay productos para mostrar"
 
   return (
     <section className="product-detail">
