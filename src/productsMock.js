@@ -4,7 +4,7 @@ export const productsMock = [
     title: "Teclado Mecánico RGB HyperX",
     price: 120,
     description: "Teclado mecánico con switches Red y retroiluminación RGB personalizable",
-    imageUrl: "https://m.media-amazon.com/images/I/71HwxKWjJEL._AC_SL1500_.jpg",
+    imageUrl: "https://res.cloudinary.com/dnewormbm/image/upload/v1754519578/hyperx_alloy_elite_2_us_1_top_down_renamed_4_qoelxk.jpg",
     stock: 15,
     category: "teclados",
   },
@@ -15,7 +15,7 @@ export const productsMock = [
     stock: 10,
     description: "Mouse gaming con sensor HERO 25K, 11 botones programables",
     category: "mouses",
-    imageUrl: "https://m.media-amazon.com/images/I/61I7uGQyEEL._AC_SL1500_.jpg",
+    imageUrl: "https://res.cloudinary.com/dnewormbm/image/upload/v1754519514/D_NQ_NP_2X_865321-MLV43788234097_102020-F_hzfpd8.webp",
   },
   {
     id: "3",
@@ -42,6 +42,6 @@ export const productsMock = [
     stock: 20,
     description: "Alfombrilla extra grande con superficie de alta precisión",
     category: "accesorios",
-    imageUrl: "https://m.media-amazon.com/images/I/71M7W+9sJYL._AC_SL1500_.jpg",
+    imageUrl: "https://res.cloudinary.com/dnewormbm/image/upload/v1754519375/alfombrilla-gaming-hyperx-fury-s-pro-speed-edition-xl-1_mt3ozz.jpg",
   },
 ];
